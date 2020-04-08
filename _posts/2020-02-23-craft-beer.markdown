@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "YUDI BEER"
-date: 2016-02-19
+title: "WEB"
+date: 2016-02-23
 categories:
-  - Daily
+  - Interest
 description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
