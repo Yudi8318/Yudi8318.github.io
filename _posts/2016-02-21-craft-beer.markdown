@@ -3,7 +3,7 @@ layout: post
 title: "Spain"
 date: 2016-02-21
 categories:
-  - Juice
+  - Travel
 description:
 image: https://picsum.photos/2000/1200?image=1003
 image-sm: https://picsum.photos/500/300?image=1003
